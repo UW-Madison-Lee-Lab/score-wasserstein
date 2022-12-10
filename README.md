@@ -4,7 +4,7 @@
 Advances in Neural Information Processing Systems 35 (NeurIPS 2022).
 
 
-[Paper](https://openreview.net/forum?id=oPzICxVFqVM)
+Links: [Paper](https://openreview.net/forum?id=oPzICxVFqVM)
 
 ![Poster](poster.png)
 
