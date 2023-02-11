@@ -1,7 +1,5 @@
 # Score-based Generative Modeling Secretly Minimizes the Wasserstein Distance
-[Dohyun Kwon](https://sites.google.com/site/dhkwonmath/), [Ying Fan](https://pages.cs.wisc.edu/~yingfan/), [Kangwook Lee](https://kangwooklee.com/aboutme/).
-
-Advances in Neural Information Processing Systems 35 (NeurIPS 2022).
+[Dohyun Kwon](https://sites.google.com/site/dhkwonmath/), [Ying Fan](https://pages.cs.wisc.edu/~yingfan/), [Kangwook Lee](https://kangwooklee.com/aboutme/). Advances in Neural Information Processing Systems 35 (NeurIPS 2022).
 
 
 Links: [Paper](https://openreview.net/forum?id=oPzICxVFqVM)
